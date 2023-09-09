@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "name": "Nihira techiees",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "98899090",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "Ricky Ponting",
+      "email": "rp@in.com",
+      "phone": "98899090",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 4,
+      "name": "Kane Williamson",
+      "email": "kw@in.com",
+      "phone": "908908767"
+    },
+    {
+      "name": "Soumik Das",
+      "email": "soumik@gmail.com",
+      "phone": "7689632131",
+      "id": 6
+    },
+    {
+      "name": "Manisha Khan",
+      "email": "09manisha.burd@gmail.com",
+      "phone": "73524135389",
+      "id": 7
+    },
+    {
+      "name": "Swagata Bhattacharaya",
+      "email": "swagata@gmail.com",
+      "phone": "65472368",
+      "id": 9
+    },
+    {
+      "name": "Debnita Samanta",
+      "email": "debnita@yahoo.in",
+      "phone": "985466356823",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
